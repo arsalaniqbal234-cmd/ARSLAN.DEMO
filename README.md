@@ -1,4 +1,4 @@
 # ARSLAN.DEMO
 This is my first Git Respo
 <br>
-AUthar- MUAHMMAD ARSLAN IQBAL
+Author- MUAHMMAD ARSLAN IQBAL
